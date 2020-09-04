@@ -38,7 +38,7 @@
     "keymaster": "git+https://github.com/furqanZafar/keymaster",
     "mkdirp": "^0.5.0",
     "moment": "^2.10.0",
-    "mongodb": "^1.4.34",
+    "mongodb": "^3.6.1",
     "mssql": "^2.1.5",
     "mysql": "^2.7.0",
     "notifyjs": "^1.2.5",
